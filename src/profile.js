@@ -105,13 +105,6 @@ const projects = [
     skills: ["Unreal Engine, C#"],
     url: "https://github.com/kaustubhai",
   },
-  {
-    // Add image in './styles/images.css' in #project6
-    id: "project6",
-    name: "Project 6",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
-  },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it
@@ -150,16 +143,9 @@ const SideProj = [
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "E-Corp",
-    skills: ["C#, MySQL, Photoshop"],
-    url: "https://github.com/kaustubhai",
-  },
-  {
-    // Add image in './styles/images.css' in #project3
-    id: "project3",
-    name: "Half Life Alyx: MK Edition",
-    skills: ["Unreal Engine, C#, Blender"],
-    url: "https://github.com/kaustubhai",
+    name: "Game Play On Intel - Website",
+    skills: ["HTML, CSS, Javascript, Blogger"],
+    url: "https://gameplayonintel.blogspot.com/",
   },
 ];
 
@@ -181,7 +167,7 @@ const social = {
   // twitter: "https://twitter.com",
   //instagram: "https://instagram.com",
   linkedin: "https://www.linkedin.com/in/Hashir-Z/",
-  resume: "https://novoresume.com/",
+  resume: "https://drive.google.com/file/d/1pmIC_SwQ5B8Ewm4phfImjp_c-Gp-dpUt/",
 };
 
 // Dont change anything here
