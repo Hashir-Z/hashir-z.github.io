@@ -6,53 +6,53 @@
 /* Projects Photo */
 .project1 {
     background-image: url('./EMedic.png');
-    cursor: none;
+    cursor: auto;
 }
 
 .project2 {
     background-image: url('./ECorp.jpg');
-    cursor: none;
+    cursor: auto;
 }
 
 .project3 {
     background-image: url('./MKEdition.jpg');
-    cursor: none;
+    cursor: auto;
 }
 
 .project4 {
     background-image: url('./FakeVR.jpg');
-    cursor: none;
+    cursor: auto;
 }
 
 .project5 {
     background-image: url('./Runner.jpg');
-    cursor: none;
-}
-
-.project6 {
-    background-image: url('./FakeVR.jpg');
-    cursor: none;
+    cursor: auto;
 }
 
 /* Side Projects photo */
 
-.project7 {
+.project6 {
     background-image: url('./UE4.png');
+    cursor: auto;
+}
+
+.project7 {
+    background-image: url('./GPOI.jpeg');
     cursor: auto;
 }
 
 /* Miscelaneous Activities photo */
 .misc1 {
     background-image: url('./Nvidia\ DLI\ Certificate.jpg');
-    cursor: none;
+    cursor: auto;
 }
 
 .misc2 {
     background-image: url('./Azure\ Fundementals\ Cert.png');
-    cursor: none;
+    cursor: auto;
 }
 
 .misc3 {
     background-image: url('./Energy\ Leadership\ Ceritificate.jpg');
-    cursor: none;
+    cursor: auto;
 }

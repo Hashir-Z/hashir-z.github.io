@@ -135,14 +135,14 @@ const section5Title = "Side Projects";
 const SideProj = [
   {
     // Add image in './styles/images.css' in #project1
-    id: "project7",
+    id: "project6",
     name: "Unreal Academy | YouTube",
     skills: ["Sony Vegas, Photoshop, Marketing"],
     url: "https://www.youtube.com/@UnrealAcademy",
   },
   {
     // Add image in './styles/images.css' in #project2
-    id: "project2",
+    id: "project7",
     name: "Game Play On Intel - Website",
     skills: ["HTML, CSS, Javascript, Blogger"],
     url: "https://gameplayonintel.blogspot.com/",
@@ -157,7 +157,7 @@ const contact = {
   pitch:
     "Feel free to reach out if you have any questions, project ideas, or just want to connect. I’m always open to discussing new opportunities and collaborations. You can contact me via email or through my social media profiles.",
   copyright: "Hashir Bin Zahid",
-  contactUrl: "mailto:hashir3k@icloud.com",
+  contactUrl: "https://formspree.io/f/xvgpnvyv",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section

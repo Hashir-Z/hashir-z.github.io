@@ -30,7 +30,7 @@ const Header = () => {
     return (
         <div>
             <div className="Header">
-                <h2>{'Hi! \n'}</h2>
+                <h2>{'Hello World! \n'}</h2>
                 <h1>{`\n I'm ${header.name}`}</h1>
                 <p className="line-1 anim-typewriter">and this is my portfolio... </p>
                 <label className="switch">
