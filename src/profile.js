@@ -61,7 +61,7 @@ const skillsBar = [
   {
     name: "Azure",
     svg: 'M17,4v9.74l-4,3.28-6.2-2.26V17L3.29,12.41l10.23.8V4.44Zm-3.41.49L7.85,1V3.29L2.58,4.84,1,6.87v4.61l2.26,1V6.57Z',
-    vbox: "0 0 20 20",
+    vbox: "0 0 25 25",
     //faClass: "fab fa-aws",
   },
 ];
@@ -169,9 +169,9 @@ const SideProj = [
 const section6Title = "Get in Touch";
 const contact = {
   pitch:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
-  copyright: "Kaustubh Mishra",
-  contactUrl: "",
+    "Feel free to reach out if you have any questions, project ideas, or just want to connect. I’m always open to discussing new opportunities and collaborations. You can contact me via email or through my social media profiles.",
+  copyright: "Hashir Bin Zahid",
+  contactUrl: "mailto:hashir3k@icloud.com",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
