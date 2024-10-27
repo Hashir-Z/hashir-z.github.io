@@ -56,7 +56,7 @@ const skillsBar = [
     name: "Database",
     // svg: '',
     faClass: "fas fa-database",
-    
+
   },
   {
     name: "Azure",
@@ -75,35 +75,35 @@ const projects = [
     id: "project1",
     name: "E-Medic",
     skills: ["C#, MySQL, Photoshop"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/Hashir-Z/E-Medic",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
     name: "E-Corp",
     skills: ["C#, MySQL, Photoshop"],
-    url: "https://github.com/kaustubhai",
+    url: "",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
     name: "Half Life Alyx: MK Edition",
     skills: ["Unreal Engine, C#, Blender"],
-    url: "https://github.com/kaustubhai",
+    url: "https://icedwhisper.itch.io/half-life-alyx-mk-edition-mouse-keyboard-remake",
   },
   {
     // Add image in './styles/images.css' in #project4
     id: "project4",
     name: "Half Life Alyx: FakeVR Mod",
     skills: ["Lua Scripting, Pascal"],
-    url: "https://github.com/kaustubhai",
+    url: "https://www.nexusmods.com/halflifealyx/mods/1",
   },
   {
     // Add image in './styles/images.css' in #project5
     id: "project5",
     name: "Endless Runner",
     skills: ["Unreal Engine, C#"],
-    url: "https://github.com/kaustubhai",
+    url: "https://youtu.be/LTCSfhn5kXY",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
@@ -115,7 +115,7 @@ const certifications = [
     // Add image in './styles/images.css' in #misc1
     id: "misc1",
     name: "Fundamentals of Accelerated Data Science",
-    url: "https://drive.google.com/file/d/11x4S5Wsn0l8m5OX5-3pF6eeyZSygSj9p/view?usp=drive_link",
+    url: "https://drive.google.com/file/d/18fUq1Bc98ZPZY-KY7_SIPHpE_kG9aYne/view?usp=drive_link",
   },
   {
     // Add image in './styles/images.css' in #misc2
@@ -167,7 +167,7 @@ const social = {
   // twitter: "https://twitter.com",
   //instagram: "https://instagram.com",
   linkedin: "https://www.linkedin.com/in/Hashir-Z/",
-  resume: "https://drive.google.com/file/d/1pmIC_SwQ5B8Ewm4phfImjp_c-Gp-dpUt/",
+  resume: "https://drive.google.com/file/d/1_-9o_4djAy9J1Wq_5SUZQoDMVtNumWnj/",
 };
 
 // Dont change anything here
