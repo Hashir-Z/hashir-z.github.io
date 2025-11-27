@@ -58,6 +58,12 @@ export default function Home() {
               </p>
               <div className="mt-8 flex gap-4">
                 <a
+                  href="#experience"
+                  className="px-6 py-3 border border-[#599692] text-[#599692] rounded-lg hover:bg-[#599692]/10 transition-colors font-medium"
+                >
+                  View Work Experience
+                </a>
+                <a
                   href="#projects"
                   className="px-6 py-3 bg-[#599692] text-white rounded-lg hover:bg-[#4a8581] transition-colors font-medium shadow-lg shadow-[#599692]/20"
                 >

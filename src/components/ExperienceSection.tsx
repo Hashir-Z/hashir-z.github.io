@@ -10,7 +10,7 @@ export default function ExperienceSection() {
   return (
     <div id="experience" className="py-20 bg-[#11172a] text-[#626c7d]">
       <div className="container mx-auto px-4">
-        <h2 className="text-3xl font-bold text-[#599692] mb-8">Experience</h2>
+        <h2 className="text-3xl font-bold text-[#599692] mb-8">Work Experience</h2>
         <VerticalTimeline lineColor="#599692">
           {experiences.map((exp, index) => {
             return (
