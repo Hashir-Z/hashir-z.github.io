@@ -6,9 +6,9 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // Configure for GitHub Pages deployment
-  basePath: process.env.NODE_ENV === 'production' ? '/hashir-z.github.io' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/hashir-z.github.io/' : '',
+  // GitHub Pages user sites (username.github.io) serve from root, not subdirectory
+  basePath: '',
+  assetPrefix: '',
 };
 
 export default nextConfig;
