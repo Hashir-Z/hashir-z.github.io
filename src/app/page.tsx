@@ -89,7 +89,7 @@ export default function Home() {
                   contactText="Get in touch"
                   avatarUrl="/resources/images/profile.png"
                   miniAvatarUrl="/resources/images/profile.png"
-                  showUserInfo={true}
+                  showUserInfo={false}
                   enableTilt={true}
                   enableMobileTilt={true}
                   onContactClick={() => {
