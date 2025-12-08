@@ -133,6 +133,13 @@ export const certifications = [
     link: '/resources/certs/Certificate_of_Completion_Microsoft_Azure.pdf',
   },
   {
+    title: 'CCNA: Introduction to Networks',
+    issuer: 'Cisco Networking Academy',
+    year: '2023',
+    technologies: ['Networking', 'Cisco', 'Routing & Switching'],
+    link: '/resources/certs/CCNAITN.pdf',
+  },
+  {
     title: 'UH Energy Leadership Certificate',
     issuer: 'University of Houston',
     year: '2023',
